@@ -1,0 +1,1 @@
+There is a bug that is adding '-'s in the name field when you click or save a change.
